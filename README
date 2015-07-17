@@ -1,0 +1,16 @@
+## Install
+```
+git clone git@github.com:blacksadhorse/metric_server.git
+python setup.py install
+```
+
+## How to use
+```
+python -m metric_server
+
+```
+
+## Info
+
+By default metric server is just listen and print result to console
+For collect metric just write your own logic
